@@ -1,6 +1,7 @@
 import { AppBar, Box, Button, Container, styled, Toolbar } from "@mui/material";
 import Home from "./pages/Home";
 import PlanetHeader from "./components/PlanetHeader";
+import "./styles/global.css";
 
 export const navItems = [
   { label: "Home", href: "#home" },

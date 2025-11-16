@@ -10,6 +10,7 @@ body,
 * {
   box-sizing: border-box;
 }
+
 .app-wrapper {
   background-image: url("../assets/space.png");
 }
